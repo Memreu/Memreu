@@ -13,10 +13,6 @@ Eskişehir Osmangazi Üniversitesi **İstatistik** bölümünde 3. sınıf öğr
 | [**Müşteri kaybı ve değeri**](https://github.com/Memreu/Customer-Churn-and-Value-Prediction) | LightGBM churn modeli ve CLTV; kilitli test seti, zamana dayalı doğrulama, bootstrap güven aralıkları, A/B testi için güç analizi |
 | [**Ruh sağlığı SSS asistanı**](https://github.com/Memreu/Mental-Health-FAQ) | RAG tabanlı asistan: geri getirme değerlendirmesi (hit@k, MRR), kriz uyarısı, testler ve CI |
 
-### Şu an
-
-- 🚗 **TEKNOFEST 2027**, *5G & Yapay Zekâ ile Akıllı Yol Güvenliği* yarışması: takımda YOLO ile nesne tespiti tarafındayım.
-
 ### Araçlar
 
 - **İstatistik:** R (`lavaan`, `psych`), Python (`statsmodels`, `scipy`), SPSS, Stata, SmartPLS
